@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GrpcDemo" />
+        <module name="GrpcJavaDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GrpcDemo" target="1.8" />
+      <module name="GrpcJavaDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

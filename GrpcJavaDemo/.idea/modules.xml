@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GrpcDemo.iml" filepath="$PROJECT_DIR$/GrpcDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrpcJavaDemo.iml" filepath="$PROJECT_DIR$/GrpcJavaDemo.iml" />
     </modules>
   </component>
 </project>
